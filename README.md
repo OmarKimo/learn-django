@@ -27,4 +27,4 @@
   
   * **[Todo API](https://github.com/OmarKimo/learn-django/tree/main/todo/backend): a Todo API back-end.**
 
-#### You can run any web app by executing `python manage.py runserver` in its coreesponding folder
+#### You can run any web app by executing `python manage.py runserver` in its corresponding folder
