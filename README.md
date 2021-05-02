@@ -13,6 +13,8 @@
   
   * **[Blog App](https://github.com/OmarKimo/learn-django/tree/main/blog): a Blog application that allows users to create, edit, and delete posts.**
 
+  * **[Newspaper App](https://github.com/OmarKimo/learn-django/tree/main/news): an articles page where journalists can post articles, set up permissions so only the author of an article can edit or delete it, and finally add the ability for other users to write comments on each article.**
+
 * **[*Django 3.1* documentation](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) tutorial**
 
   * **[Polls App](https://github.com/OmarKimo/learn-django/tree/main/djangofirst): a basic poll application.**
