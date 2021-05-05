@@ -26,5 +26,7 @@
   * **[Library App & API](https://github.com/OmarKimo/learn-django/tree/main/library): a basic Library website with traditional *Django* and extend it into a web API with *Django REST Framework*.**
   
   * **[Todo API](https://github.com/OmarKimo/learn-django/tree/main/todo/backend): a Todo API back-end.**
-
+  
+  * **[Todo Frontend with React](https://github.com/OmarKimo/learn-django/tree/main/todo/frontend): a Todo Frontend built with React and connected to the Todo API.**
+  
 #### You can run any web app by executing `python manage.py runserver` in its corresponding folder
