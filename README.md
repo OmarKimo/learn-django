@@ -29,7 +29,11 @@
   
   * **[Todo Frontend with React](https://github.com/OmarKimo/learn-django/tree/main/todo/frontend): a Todo Frontend built with React and connected to the Todo API.**
   
-  * **[Blog API](https://github.com/OmarKimo/learn-django/tree/main/blogapi): a Blog API using the full set of Django REST Framework features such as users, permissions, and full CRUD (Create-Read-Update-Delete) functionality.**
+  * **[Blog API](https://github.com/OmarKimo/learn-django/tree/main/blogapi): a Blog API using the full set of *Django REST Framework* features such as users, permissions, and full CRUD (Create-Read-Update-Delete) functionality.**
+
+* **[*Django Rest Framework* documentation](https://www.django-rest-framework.org/tutorial/1-serialization/) tutorial**
+
+  * **[Pastebin Code Highlighting API](https://github.com/OmarKimo/learn-django/tree/main/drf-tutorial)**
   
 #### You can run any web app by executing these commands in its corresponding folder:
 
