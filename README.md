@@ -29,4 +29,14 @@
   
   * **[Todo Frontend with React](https://github.com/OmarKimo/learn-django/tree/main/todo/frontend): a Todo Frontend built with React and connected to the Todo API.**
   
-#### You can run any web app by executing `python manage.py runserver` in its corresponding folder
+  * **[Blog API](https://github.com/OmarKimo/learn-django/tree/main/blogapi): a Blog API using the full set of Django REST Framework features such as users, permissions, and full CRUD (Create-Read-Update-Delete) functionality.**
+  
+#### You can run any web app by executing these commands in its corresponding folder:
+
+##### 1. `python manage.py migrate`
+
+##### 2. `python manage.py makemigrations`
+
+##### 3. `python manage.py runserver`
+
+#### And if you want to access the admin page, you must run `python manage.py createsuperuser` first
